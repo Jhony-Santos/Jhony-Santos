@@ -37,7 +37,7 @@
 <!-- SOCIAL -->
 <div>
     <a href="mailto:jhony.jpn@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-E4400F?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>  
-  <a href="https://www.linkedin.com/in/Jhony-Santos/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jhonatan-santos-00b902181/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <!-- SOCIAL -->
 
