@@ -2,8 +2,8 @@
 
 
 <h3>About Me</h3>
-  <h4><li> 🌱 Exploring new technologies and developing software solutions and quick hacks </h4></li>
 <h4><li> ♟️ Working Automation tests </h4></li>
+<h4><li> 🌱 Exploring new technologies and developing software solutions and quick hacks </h4></li>
 <h4><li> :books: Studying Informations Systems at PUC-PR </h4></li>
 <h4><li> ⌨️ Learning about Cybersecurity </h4></li>
 
