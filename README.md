@@ -1,4 +1,4 @@
-:ocean: Não irão parar o tempo então vai lá e navega!
+:ocean: 
 
 
 <h3>About Me</h3>
