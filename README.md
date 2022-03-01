@@ -27,11 +27,6 @@
 
 </br>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhony-Santos&layout=compact)](https://github.com/Jhony-Santos/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhony-Santos&show_icons=true&theme=blue)
-
-
 <h3>Connect with Me</h3>
 
 <!-- SOCIAL -->
